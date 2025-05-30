@@ -1,5 +1,5 @@
 👋 Hi, I'm Etuka Nkechi Amanda  
-Full-Stack Developer | React | PHP | Go Enthusiast  
+Full-Stack Developer | JavaScript | React | PHP | Go Enthusiast  
 
 💻 Core Skills:
 - Frontend: React, JavaScript, HTML/CSS  
@@ -23,4 +23,4 @@ Full-Stack Developer | React | PHP | Go Enthusiast
 
 📫 Reach Out: 
 - LinkedIn: https://www.linkedin.com/in/nkechi-etuka-76561a330  
-- Email: nkechietuka@email.com  
+- Email: nkechietuka@gmail.com  
