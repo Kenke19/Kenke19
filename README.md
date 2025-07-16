@@ -1,10 +1,10 @@
 👋 Hi, I'm Etuka Nkechi Amanda  
-Full-Stack Developer | JavaScript | React | PHP | Go Enthusiast  
+Full-Stack Developer =>  JavaScript | React | PHP | Tailwind | MySql | Go Enthusiast  
 
 💻 Core Skills:
 - Frontend: React, JavaScript, HTML/CSS  
 - Backend: PHP, MySQL (with Go in progress)  
-- Styling: Learning Tailwind CSS  
+- Styling: Learning Material UI  
 - Tools: Git, GitHub, VS Code  
 
 🚀 Featured Projects:
