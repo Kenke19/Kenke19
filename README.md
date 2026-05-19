@@ -24,4 +24,4 @@ Full-Stack Developer =>  JavaScript | React | PHP | Tailwind | MySql | Python En
 📫 Reach Out: 
 - LinkedIn: https://www.linkedin.com/in/nkechi-etuka-76561a330  
 - Email: nkechietuka@gmail.com
-- Portfolio: [https://etuka-amanda.wuaze.com](https://amanda-etuka.vercel.app/) 
+- Portfolio: (https://amanda-etuka.vercel.app/) 
